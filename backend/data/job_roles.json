@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Frontend Developer",
+    "skills_required": ["HTML", "CSS", "JavaScript", "React"]
+  },
+  {
+    "role": "Data Analyst",
+    "skills_required": ["Python", "Excel", "SQL"]
+  },
+  {
+    "role": "Backend Developer",
+    "skills_required": ["Python", "Flask", "SQL"]
+  }
+]

@@ -1,0 +1,6 @@
+flask
+flask-cors
+openai
+pdfminer.six
+python-docx
+scikit-learn
